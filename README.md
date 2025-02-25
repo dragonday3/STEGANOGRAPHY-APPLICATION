@@ -1,1 +1,1 @@
-# STEGANOGRAPHY-APPLICATION
+# Secure Data Hiding in Image using Steganography
