@@ -49,3 +49,4 @@ This project is a PyQt6-based desktop application that allows users to encrypt a
   3. Click "Decrypt Image" to retrieve the hidden text.
 
 # **OUTPUT**
+![Image](https://github.com/user-attachments/assets/a3b6d46d-7ab3-4e52-94e4-7b63f5aa1d6f)
