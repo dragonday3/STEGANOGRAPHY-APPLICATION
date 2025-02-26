@@ -47,3 +47,5 @@ This project is a PyQt6-based desktop application that allows users to encrypt a
   1. Select an encrypted image.
   2. Enter the password (if one was used).
   3. Click "Decrypt Image" to retrieve the hidden text.
+
+# **OUTPUT**
