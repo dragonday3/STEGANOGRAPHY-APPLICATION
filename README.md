@@ -50,3 +50,4 @@ This project is a PyQt6-based desktop application that allows users to encrypt a
 
 # **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/a3b6d46d-7ab3-4e52-94e4-7b63f5aa1d6f)
+![Image](https://github.com/user-attachments/assets/f932bb32-7788-4c5d-927f-7168bb82ec90)
